@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1421300544 source:/home/hostelix/Escritorio/NuevaPG/main.cpp
+	"PGRecord.h"
+	<stdio.h>
+	<iostream>
+	<string>
+	<vector>
+	"/home/hostelix/reloj_prueba.h"
+
+1420597708 /home/hostelix/Escritorio/NuevaPG/PGRecord.h
+	<postgresql/libpq-fe.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<iostream>
+	<map>
+	<ctype.h>
+
+1420597675 source:/home/hostelix/Escritorio/NuevaPG/PGRecord.cpp
+	"PGRecord.h"
+
+1420324492 /home/hostelix/reloj_prueba.h
+	<time.h>
+
